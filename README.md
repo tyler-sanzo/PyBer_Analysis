@@ -2,7 +2,7 @@
 
 ## Analysis Overview
 
-The CEO of the Ridesharing app PyBer has tasked us with using ride data to create an analytical summary split up by city size. Additionally, a line graph was created to show the weekly fare for each city type for Q1 2019.
+The CEO of the Ridesharing app PyBer has tasked us with using ride data to create an analytical summary split up by city size. Additionally, a line graph was created to show the weekly fare for each city type for January through April in 2019.
 
 ## Results
 
@@ -31,7 +31,7 @@ Total fare earned in 2019: $63,538.64
 ![Fare Averages](https://github.com/tyler-sanzo/PyBer_Analysis/blob/main/Analysis/PyBer_Overview_Summary.PNG)
 
 
-### Weekly Fares by City Type
+### Weekly Fares by City Type (Jan - Apr 2019) 
 
 ![Weekly Fares](https://github.com/tyler-sanzo/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
