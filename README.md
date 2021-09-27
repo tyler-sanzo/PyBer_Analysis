@@ -37,3 +37,13 @@ Total fare earned in 2019: $63,538.64
 
 
 As expected, cities with larger populations naturally have more demand for ridesharing services. The bulk of the rides, drivers and total fares were from Urban cities, followed by Suburban and lastly Rural. Due to this, however, the average fare per driver in areas with lower populations is increased solely due to the decreased number of drivers. We can even see that the number of rides in Urban areas exceeds the total number of rides. This means that in Urban areas there is a surplus of drivers leading to a number of those wanting to participate left unable to find ride requests.
+
+
+## Summary of Results
+
+Below are 3 recommendations to increase revenue based on disparities gathered from the analysis of each city type.
+
+-Although it can be difficult to market ridesharing in a rural area due to lower population density, the average fare per driver can be used as a metric to increase the total number of drivers. It is very likely that, due to this driver shortage, riders have had to wait for extended periods of time before receiving a ride leading them to finding a different option the next time they needed a ride somewhere.
+
+-
+
