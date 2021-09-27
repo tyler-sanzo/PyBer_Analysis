@@ -43,7 +43,9 @@ As expected, cities with larger populations naturally have more demand for rides
 
 Below are 3 recommendations to increase revenue based on disparities gathered from the analysis of each city type.
 
--Although it can be difficult to market ridesharing in a rural area due to lower population density, the average fare per driver can be used as a metric to increase the total number of drivers. It is very likely that, due to this driver shortage, riders have had to wait for extended periods of time before receiving a ride leading them to finding a different option the next time they needed a ride somewhere.
+- Although it can be difficult to market ridesharing in a rural area due to lower population density, the average fare per driver can be used as a metric to increase the total number of drivers. It is very likely that, due to this driver shortage, riders have had to wait for extended periods of time before receiving a ride leading them to finding a different option the next time they needed a ride somewhere.
 
--
+- Urban city types, the only segment with a surplus of drivers, would benefit from increased marketing to consumers looking for ridesharing services.
+
+- Incentives could be given to Urban drivers looking for work to drive out to Rural markets in close proximity to spread out the driver density
 
